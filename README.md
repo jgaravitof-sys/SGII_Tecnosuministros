@@ -145,15 +145,12 @@ El sistema utiliza SQLite con las siguientes tablas:
 - `detalle_ventas` - Detalles de productos vendidos
 - `alertas` - Registro de alertas del sistema
 
-## Capturas de Pantalla
 
-*(Aquí puedes agregar capturas de pantalla de la interfaz)*
 
 ## Autores
 
 - Juan Felipe Garavito Feo
-- Esteban Girón Herrera
-- Carlos Alberto Mancilla Valle
+
 
 ## Licencia
 
